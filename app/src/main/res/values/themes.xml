@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MADFinal" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+        <!-- Typography: Using system default sans-serif since custom font file is not present -->
+        <item name="fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Theme.MADFinal" parent="Base.Theme.MADFinal" />
+    
+    <!-- Custom Sepia Theme -->
+    <style name="Theme.MADFinal.Sepia" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#5D4037</item>
+        <item name="colorPrimaryVariant">#3E2723</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#8D6E63</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/sepia_background</item>
+        <item name="colorSurface">@color/sepia_surface</item>
+        <item name="android:textColor">@color/sepia_text</item>
+    </style>
+</resources>

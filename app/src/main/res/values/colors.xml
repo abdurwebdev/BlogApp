@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Professional Brand Colors -->
+    <color name="primary_color">#1A237E</color> <!-- Deep Indigo -->
+    <color name="primary_variant">#000051</color>
+    <color name="secondary_color">#009688</color> <!-- Teal -->
+    <color name="secondary_variant">#00695C</color>
+    
+    <color name="background_light">#F5F5F5</color>
+    <color name="surface_light">#FFFFFF</color>
+    
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    
+    <color name="error_color">#B00020</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary_light">#212121</color>
+    <color name="text_secondary_light">#757575</color>
+    
+    <color name="text_primary_dark">#EEEEEE</color>
+    <color name="text_secondary_dark">#B0B0B0</color>
+    
+    <!-- Custom Theme Colors (Sepia/Reader) -->
+    <color name="sepia_background">#F4ECD8</color>
+    <color name="sepia_surface">#E9E1CC</color>
+    <color name="sepia_text">#5D4037</color>
+</resources>
