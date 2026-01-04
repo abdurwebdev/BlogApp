@@ -64,5 +64,5 @@ This Android application is a comprehensive implementation of Mobile Application
    - Password: `admin123`
 
 ---
-**Student Name**: [Your Name]
-**Roll Number**: [Your Roll Number]
+**Student Name**: Abdur-Rehman
+**Roll Number**: 23-ARID-774
