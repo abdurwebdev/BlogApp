@@ -49,9 +49,6 @@ This Android application is a comprehensive implementation of Mobile Application
     - AndroidX & Material Components
     - ConstraintLayout
 
-## 📸 Screenshots
-
-*(Place your screenshots here)*
 
 ## 🚀 How to Run
 
